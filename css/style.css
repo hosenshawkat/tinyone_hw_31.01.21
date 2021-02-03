@@ -1,0 +1,214 @@
+/* 
+
+font-family: 'PT Sans', sans-serif;
+Regular 400
+Bold 700
+<i class="fas fa-code"></i>
+<i class="far fa-envelope"></i>
+<i class="far fa-lemon"></i>
+
+*/
+/* common start */
+  body{
+     font-family: 'PT Sans', sans-serif;
+    
+} 
+/* common end */
+
+/* header start */
+header{
+    margin-top: 0 50px;
+    background-color: #fcdb00;
+}
+.logo{
+          width:150px;
+          margin-top: 45px;
+         }
+.nav_to{
+         color: #ffd338 !important;
+         border-color: rgb(241 92 92) !important;
+}
+.menu ul li a{  
+    font-size: 22px;
+    font-weight: 700;
+    color: #333333 !important;
+    padding: 2px 40px !important;
+    
+}
+.menu ul li a:hover{
+    color: white !important;
+
+   }
+
+/* header end */
+
+section{
+    
+}
+
+.banner{
+  background-color: #fcdb00;
+}
+
+
+.b_content{
+    
+}
+.b_content h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;  
+
+}
+
+.b_content h2{
+    font-size: 20px;
+    font-weight: 400;
+    color: #010101;  
+}
+.b_content p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;  
+}
+
+
+.b_icon i{
+    font-size: 40px;
+    color: #010101;
+    padding: 0 18px;
+}
+
+.b_icon i:first-child{
+     padding-left: 0 !important;
+}
+
+
+
+
+/* features start */
+.features{
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+.c_title{}
+.c_h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;  
+    margin-bottom: 20px;
+}
+.c_p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #313841;  
+    line-height: 25px;
+    word-spacing: 2px;
+}
+.m_t_60{
+  margin-top: 60px;
+}
+.s_icon{
+    font-size: 50px;
+    color: #010101; 
+}
+.s_text{}
+.s_text h1{
+    font-size: 20px;
+    font-weight: 400;
+    color: #010101;
+    margin-top: 10px;
+    margin-bottom: 13px;
+}
+.s_text p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #898989;
+    letter-spacing: 1px;
+}
+/* features end */
+
+
+/* contact start */
+.contact{
+  background-color: #010101;
+  padding-top: 80px;
+  padding-bottom: 120px;
+
+}
+.title h1{
+  font-size: 32px;
+  font-weight: 700;
+  color:#fcdb00;
+
+}
+.title p{
+  font-size: 20px;
+  font-weight: 400;
+  color:#898989;
+  letter-spacing: 1px;
+}
+.f_form{
+  margin-top: 30px;
+  margin-bottom: 60px;
+
+}
+.f_email{
+   font-family: 'PT Sans', sans-serif;
+   font-size: 16px;
+   font-weight: 400;
+   color: #898989!important;
+   width: 100%;
+   height: 50px;
+   border:none;
+}
+.f_email:focus{
+  outline: o;
+  box-shadow: none;
+}
+.f_submit{
+   width: 100%;
+   height: 50px;
+   background-color: #fcdb00 !important;
+   font-family: 'PT Sans', sans-serif;
+   font-size: 16px;
+  font-weight: 700;
+  color: #010101 !important;
+  text-transform: uppercase;
+}
+.f_submit:focus{
+  outline: o;
+  box-shadow: none;
+}
+.f_submit:hover{
+  color: dark !important;
+  background-color: white !important;
+}
+.c_1 i{
+    font-size: 50px;
+    text-decoration: none;
+    color: #fcdb00 !important;
+    padding-right: 20px;
+   
+}
+/* contact end */
+
+/* footer start */
+footer{
+  background-color: #010101;
+  padding-bottom: 120px;
+}
+.f_1{
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+}
+.f_1 p{
+  margin:0;
+}
+.f_1 p a{
+  color: white !important;
+  text-decoration: none;
+}
+
+/*footer end  */

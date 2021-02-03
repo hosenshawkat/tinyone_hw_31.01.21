@@ -1,0 +1,132 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+      .b_content h1 {
+         margin-top: 25px;
+         margin-bottom: 20px;
+                    }
+      .features {
+         padding-top: 30px;
+         padding-bottom: 50px;
+               }
+      .m_t_60 {
+         margin-top: 35px;
+          }
+      .s_text{
+        text-align: center;
+      }
+
+      .s_text h1 {
+        font-size: 18px;
+        margin-top: 4px;
+        margin-bottom: 10px;
+}
+
+/* contact */
+    .contact {
+    padding-top:25px;
+    padding-bottom: 45px;
+}
+    .title p {
+      font-size: 16px;
+    }
+    .f_submit{
+      margin-top: 20px;
+    }
+    /* footer */
+    .f_1{
+  text-align: center;
+  margin-bottom: 20px;
+    }
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+      .b_content h1 {
+        margin-top: 30px;
+        margin-bottom: 20px;
+          }
+
+      .features {
+           padding-top: 55px;
+          padding-bottom: 80px;
+           }
+      .m_t_60 {
+         margin-top: 30px;
+          } 
+  /* footer */
+   .f_1{
+  text-align: center;
+    }
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+     .b_content h1 {
+        margin-top: 35px;
+        margin-bottom: 20px;
+          }
+
+    .features {
+           padding-top: 55px;
+          padding-bottom: 110px;
+           }
+     .m_t_60 {
+       margin-top: 45px;
+       }
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+        .b_content h1 {
+        margin-top: 70px;
+        margin-bottom: 20px;
+          }
+    .b_content h2 {
+        margin-bottom: 20px;
+          }
+    .b_content p {
+        margin-bottom: 30px;
+          }
+    .img-fluid{
+        
+        margin-bottom: 45px;
+          }
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    
+
+    .b_content h1 {
+        margin-top: 95px;
+        margin-bottom: 20px;
+          }
+    .b_content h2 {
+        margin-bottom: 20px;
+          }
+    .b_content p {
+        margin-bottom: 30px;
+          }
+    .img-fluid{
+        
+        margin-bottom: 45px;
+          }
+ }
+
+/*Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+       .b_content h1 {
+        margin-top: 95px;
+        margin-bottom: 20px;
+          }
+    .b_content h2 {
+        margin-bottom: 20px;
+          }
+    .b_content p {
+        margin-bottom: 30px;
+          }
+    .img-fluid{
+        
+        margin-bottom: 45px;
+          }
+ }
